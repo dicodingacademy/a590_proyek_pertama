@@ -18,6 +18,9 @@ Setup environment:
 
 ```
 
+## Business Dashboard
+Jelaskan tentang business dashboard yang telah dibuat. Jika ada, sertakan juga link untuk mengakses dashboard tersebut.
+
 ## Conclusion
 Jelaskan konklusi dari proyek yang dikerjakan.
 
